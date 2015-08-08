@@ -44,7 +44,10 @@ docpadConfig = {
 			]
 
 			# Scripts
-			scripts: []
+			scripts: [
+			  "//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"
+			  "scripts/script.js"  
+			]
 
 
 		# -----------------------------
@@ -115,3 +118,8 @@ docpadConfig = {
 
 # Export our DocPad Configuration
 module.exports = docpadConfig
+
+plugins:
+    ghpages:
+        deployRemote: 'target'
+        deployBranch: 'master'
