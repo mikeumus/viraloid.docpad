@@ -799,6 +799,7 @@ body .primary-button {
   background: none !important;
   position: fixed !important;
   left: 44%;
+  top: 128px;
 }
   .how-hex:before{
     
