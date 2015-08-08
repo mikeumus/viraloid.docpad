@@ -34,7 +34,7 @@ docpadConfig = {
 			author: "Mikeumus"
 
 			# The website author's email
-			email: "mike@betabulls.com"
+			email: "mikeumus@gmail.com"
 
 			# Styles
 			styles: [
@@ -45,7 +45,7 @@ docpadConfig = {
 
 			# Scripts
 			scripts: [
-			  "//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"
+			  "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"
 			  "scripts/script.js"  
 			]
 
