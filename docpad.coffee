@@ -38,8 +38,8 @@ docpadConfig = {
 
 			# Styles
 			styles: [
-				"http://yui.yahooapis.com/pure/0.4.2/pure-min.css"
-				"//fonts.googleapis.com/css?family=Open+Sans"
+				"https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css"
+				"https://fonts.googleapis.com/css?family=Open+Sans"
 				"styles/style.css"
 			]
 
